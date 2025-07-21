@@ -1,4 +1,4 @@
-# Q3: Convert decimal to binary
+// Q3: Convert decimal to binary
 
 # Input a decimal number from the user
 decimal_number = int(input("Enter a decimal number: "))

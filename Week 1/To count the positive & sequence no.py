@@ -1,4 +1,4 @@
-# Q2: Program to count the no. of positive & sequence no.
+// Q2: Program to count the no. of positive & sequence no.
 
 # Input: Number of elements to be stored in the array
 n = int(input("Enter how many numbers you want to input: "))

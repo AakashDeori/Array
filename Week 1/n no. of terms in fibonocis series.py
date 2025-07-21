@@ -1,4 +1,4 @@
-# Input the number of terms from the user
+// Input the number of terms from the user
 n = int(input("Enter the number of terms for Fibonacci series: "))
 
 # Initialize the first two terms of Fibonacci series

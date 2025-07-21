@@ -1,4 +1,4 @@
-# Q1: Program to input elements of array and print all the elements
+// Q1: Program to input elements of array and print all the elements
 
 # Input the number of elements
 n = int(input("Enter the number of elements: "))
